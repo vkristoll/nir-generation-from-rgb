@@ -7,7 +7,7 @@ V. Kristollari and V. Karathanassi, "Leveraging a Vision Transformer and Adversa
 
 It can be accessed in: https://ieeexplore.ieee.org/abstract/document/11005574
 
-* pretrained weights can be downloaded from https://mega.nz/folder/fddgWZIa#NrspOXaP01xrpj3Yh24jDw
+\* pretrained weights can be downloaded from https://mega.nz/folder/fddgWZIa#NrspOXaP01xrpj3Yh24jDw
 
 
 ![method](/images/method.png)
